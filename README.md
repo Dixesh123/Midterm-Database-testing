@@ -1,14 +1,19 @@
 Road Freight Transportation Management System
+
 Overview
+
 The Road Freight Transportation Management System is designed for a transportation company to efficiently manage its fleet of trucks, employees, customers, shipments, and trips. The system allows for easy tracking of truck attributes, employee roles (drivers and mechanics), shipment details, and trip records.
 
 Features
+
 Truck Management: Track truck details such as brand, load capacity, year, and repair history.
 Employee Management: Manage employee details, including roles as drivers and mechanics.
 Repair Tracking: Log truck repairs along with the mechanics responsible and estimated repair times.
 Shipment Management: Receive and manage shipments from customers, detailing weights, values, origins, and destinations.
 Trip Management: Record trips with details about routes, trucks, and driver participation.
+
 Database Schema
+
 The database consists of the following tables:
 
 customers
